@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1535
     wikipedia: http://en.wikipedia.org/wiki/Anne_Louise_Germaine_de_Staël
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19232#De-l-influence-des-passions-sur-le-bonheur-des-individus-et-des-nations
 gutenberg_bookshelf: FR Philosophie, Religion et Morale
 gutenberg_issued: '2006-09-10'
 gutenberg_type: Text
